@@ -1,6 +1,6 @@
 {
     "name": "angularjs-gauge",
-    "version": "2.2.0",
+    "version": "2.2.0.1",
     "description": "A Gauge directive for Angular 1.x apps and dashboards",
     "keywords": [
         "angular",
@@ -13,7 +13,7 @@
         "arc"
     ],
     "main": "src/angularjs-gauge.js",
-    "authors": ["Ashish Chopra"],
+    "authors": ["Ashish Chopra", "Kevin Lambert"],
     "license": "MIT",
     "homepage": "https://github.com/ashish-chopra/angular-gauge",
     "ignore": [
